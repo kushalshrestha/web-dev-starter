@@ -35,3 +35,10 @@ $accountNumber
 _123   (but not good choice)
 __proto__ 
 
+
+## Types and Operators
+Numbers
+
+Strings
+
+

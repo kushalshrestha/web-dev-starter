@@ -6,7 +6,6 @@ let welcome = 'DISCOUNT',
 const price = 40;
 
 
-
 // show the title
 showMessage(price);
 
